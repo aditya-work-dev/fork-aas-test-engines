@@ -2,6 +2,7 @@ from unittest import TestCase
 from aas_test_engines.config import TestCaseFilter
 from aas_test_engines.exception import InvalidFilterException
 
+# Tests config
 
 class TestFilter(TestCase):
 

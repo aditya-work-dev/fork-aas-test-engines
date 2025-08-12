@@ -2,6 +2,7 @@ from unittest import TestCase
 import subprocess
 import os
 
+# Tests CLI
 script_dir = os.path.dirname(os.path.realpath(__file__))
 
 

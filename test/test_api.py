@@ -10,3 +10,6 @@ class SupportedVersionsTest(TestCase):
         for i in s:
             print(i)
         self.assertIn(api.latest_version(), s)
+
+
+# Tests API
